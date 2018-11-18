@@ -17,11 +17,11 @@ As Adobe PDF has an awesome design that user can only choose either the selectio
     
 2.  Select the text in Adobe PDF, press 'Windows key' + 'C'
     - If you would like customize keys, please reference the docs.
-      https://autohotkey.com/docs/Hotkeys.htm
+      - https://autohotkey.com/docs/Hotkeys.htm
     
 ## Explanation
 1.  This script basical perform the following actions:
-    - 'Ctrl+C' -> 'Shift+F10' -> 'H'
+    - 'Ctrl+C' (Copy) -> 'Shift+F10' (Right-click) -> 'H' (Highlight)
 
 ##  Limitation
 1.  For Windows.
